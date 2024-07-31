@@ -7,7 +7,7 @@ import Footer from "./Footer_DCT";
 import Globe2 from "./Globe2"
 export default function Home() {
   return (
-    <div className="min-h-screen">
+    <div className="min-h-screen bg-black">
       <Navbar />
       <div>
       <Hero />
