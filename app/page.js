@@ -18,9 +18,7 @@ export default function Home() {
       <Services />
       <Globe2 />
       <Lorems />  
-
       <Footer />
-      
     </div>
   );
 }
